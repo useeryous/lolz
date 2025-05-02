@@ -1,0 +1,21 @@
+Screen {
+    layout: grid;
+    grid-size: 3;
+}
+
+#title {
+    column-span: 3;
+}
+
+#fileTree {
+    row-span: 2;
+}
+
+#tabs {
+
+}
+
+#textEdiotr {
+    column-span: 2;
+    row-span: 2;
+}
