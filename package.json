@@ -1,4 +1,12 @@
 {
+  "name": "lolz",
+  "version": "1.0.0",
+  "description": "can do almost anything",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test\" && exit 1"
+  },
   "devDependencies": {
     "electron": "^36.2.1"
   }
